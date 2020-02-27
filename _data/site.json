@@ -1,0 +1,18 @@
+{
+  "title": "Occam Athletics",
+  "url": "https://occam-athletics.netlify.com/",
+  "description": "Sacramento California",
+  "googleID": "xxxxxxxxxxxxxxx",
+  "repo": "http://github.com/whaleen/occam-athletics",
+  "feed": {
+    "subtitle": "Sacramento California",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://occam-athletics.netlify.com"
+  },
+  "author": {
+    "name": "Joshua Vaage",
+    "email": "jvaage@protonmail.com",
+    "avatar": "/images/avatar.jpg"
+  }
+}

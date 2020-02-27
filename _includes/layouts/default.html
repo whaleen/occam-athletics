@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include _head.html %}
+<body>
+  <!-- .content class on the div is for the Sticky Footer  -->
+  <div class="content">
+  <article class="vh-100 dt w-100 bg-near-black">
+    <div class="dtc v-mid tc white ph3 ph4-l">
+      <div class="tc">
+      {% include _header.html %}
+      {{content}}
+      {% include _footer.html %}
+      </div>
+    </div>
+  </article>
+
+
+  </div>
+
+  {% include _google_analytics.html %}
+
+</body>
+</html>
